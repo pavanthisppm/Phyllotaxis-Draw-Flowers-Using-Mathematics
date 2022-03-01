@@ -1,4 +1,4 @@
-# pavanthisppm-Phyllotaxis-Draw-Flowers-Using-Mathematics
+# Phyllotaxis-Draw-Flowers-Using-Mathematics
 
 R can be used to have fun and to do beautiful things. Its graphical power can be used to produce artistic images like the one that illustrates this section, which is inspired by how plants arrange their leaves. This fact is called phyllotaxis and will serve as the basis of this project.
 
